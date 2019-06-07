@@ -1,0 +1,10 @@
+@ITD 1
+carte map3.ppm
+chemin 255 255 255
+noeud 53 173 104
+construct 107 192 151
+in 226 214 28
+out 200 50 20
+3
+0 275
+575 275
